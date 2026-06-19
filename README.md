@@ -51,12 +51,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Wania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
+![Wania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wania162&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wania162&layout=compact&theme=tokyonight)
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wania-tariq-46100b398/)
