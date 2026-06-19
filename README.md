@@ -1,54 +1,52 @@
 # Hi there, I'm Wania Tariq 👋
 
-🎓 Full Stack Web Developer | Saylani Mass IT Training, Karachi
-💻 I build complete web applications — from frontend to backend to database
-📍 Based in Karachi, Pakistan
-🚀 Always learning, always building
+Full-Stack Developer | MERN Stack Enthusiast — I'm a passionate web developer 
+with hands-on experience in building responsive and functional web applications.
+
+- 🌱 I'm currently learning **REST APIs**, **TypeScript** & **Deployment**
+- 📂 All of my projects are available at [github.com/Wania162](https://github.com/Wania162/)
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 How to reach me: **your-email@gmail.com**
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wania-tariq-46100b398/)
 
 ---
 
-## 🛠️ Tech Stack
+## Languages and Tools:
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Design & Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/html-5.png" width="40" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="40" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" width="40" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/typescript.png" width="40" alt="TypeScript"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" width="40" alt="React"/>
+  <img src="https://img.icons8.com/fluency/48/figma.png" width="40" alt="Figma"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" width="40" alt="Node.js"/>
+  <img src="https://img.icons8.com/fluency/48/express-js.png" width="40" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" width="40" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/php-logo.png" width="40" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png" width="40" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/git.png" width="40" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" width="40" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/vercel.png" width="40" alt="Vercel"/>
+  <img src="https://img.icons8.com/color/48/netlify.png" width="40" alt="Netlify"/>
+  <img src="https://img.icons8.com/color/48/railway.png" width="40" alt="Railway"/>
+</p>
 
 ---
 
-## 📚 What I Can Build
+## 📊 Most Used Languages
 
-- 🎨 Responsive websites with **HTML5, CSS3 & Bootstrap 5**
-- ⚡ Interactive UIs with **JavaScript & React**
-- 🖌️ UI/UX designs and prototypes in **Figma**
-- 🔧 REST APIs with **Node.js & Express.js**
-- 🗄️ Database-driven apps with **MongoDB**
-- 🌐 Server-side apps with **PHP**
-- 🧪 API testing & debugging with **Postman**
-
-## 📊 GitHub Stats
-![Wania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wania162&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wania162&layout=compact&theme=tokyonight)
-## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wania-tariq-46100b398/)
+## 📈 GitHub Stats
+
+![Wania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wania162&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wania162&theme=tokyonight)
 
 ---
 
-⭐ *"Code is like humor. When you have to explain it, it's bad."*
+## 🚀 What I
