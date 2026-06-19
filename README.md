@@ -1,4 +1,4 @@
-# Hi there, I'm Wania Fatima 👋
+# Hi there, I'm Wania Tariq 👋
 
 🎓 Full Stack Web Developer | Saylani Mass IT Training, Karachi
 💻 I build complete web applications — from frontend to backend to database
@@ -52,14 +52,14 @@
 
 ## 📊 GitHub Stats
 
-![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifahasan295&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifahasan295&layout=compact&theme=tokyonight)
+![Wania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huzaifa-hasan-717a48417)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wania-tariq-46100b398/)
 
 ---
 
