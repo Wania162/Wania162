@@ -42,11 +42,6 @@
 - 🌐 Server-side apps with **PHP**
 - 🧪 API testing & debugging with **Postman**
 
----
-
-
----
-
 ## 📊 GitHub Stats
 ![Wania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wania162&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wania162&layout=compact&theme=tokyonight)
