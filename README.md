@@ -44,9 +44,6 @@
 
 ---
 
-## 🚀 Projects
-
-> Projects coming soon — stay tuned!
 
 ---
 
