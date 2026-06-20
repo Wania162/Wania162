@@ -45,10 +45,4 @@ with hands-on experience in building responsive and functional web applications.
 
 ---
 
-## 💼 Projects
-
-> Projects coming soon — stay tuned!
-
----
-
 ⭐ *"Code is like humor. When you have to explain it, it's bad."*
